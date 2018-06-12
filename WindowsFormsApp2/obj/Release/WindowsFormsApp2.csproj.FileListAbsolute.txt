@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe.config
+C:\Users\Administrator\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe
+C:\Users\Administrator\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.pdb
+C:\Users\Administrator\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.bookFolder.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.bookMark.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form1.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.history.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.MainForm.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.qrcode.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Resource2.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.folderButton.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.setting.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.exe
+C:\Users\Administrator\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.pdb
